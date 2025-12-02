@@ -1,16 +1,55 @@
-### Hi there 👋
+# Hi there 👋  
+### I'm **Soumyank Padhy**  
 
-<!--
-**Soumyank007/Soumyank007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer • Full-Stack Developer • Problem Solver  
+I design systems that are fast, scalable, and intentionally crafted — both in code and in experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 About Me  
+I work across the full ecosystem of web and mobile development, blending **frontend precision**, **backend reliability**, and **cloud-native architecture** to build performant digital products.
+
+I focus on:
+- Clean and maintainable code  
+- High-performance systems  
+- Strong UI/UX principles  
+- Automation, testing & CI/CD  
+- Thoughtful problem-solving  
+
+---
+
+## 🧘 Engineering Philosophy  
+> **“Good engineering feels simple. Great engineering disappears.”**  
+
+I believe in:
+- Minimalism in design  
+- Consistency in architecture  
+- Precision in implementation  
+- Systems that scale without noise  
+
+---
+
+## 🛠️ Technologies I Work With  
+
+**Frontend:**  
+React • Next.js • Vue • Nuxt • React Native • TypeScript • Tailwind  
+
+**Backend:**  
+Node.js • Spring Boot • Django • Laravel • REST APIs • GraphQL  
+
+**Cloud / DevOps:**  
+AWS • Docker • GitHub Actions • Linux • CI/CD  
+
+**Databases:**  
+PostgreSQL • MySQL • MongoDB • Redis  
+
+---
+
+## 🌐 Connect  
+Portfolio: **https://soumyank.com**  
+Email: Available on the website  
+Open to collaborations & meaningful work.
+
+---
+
+Thanks for stopping by.
